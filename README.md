@@ -40,10 +40,6 @@ UTS-Analisis-Runtun-Waktu/
 │
 ├── 2404220026_Dimas_Pasha_Akrilian_UTS_Analisis_Runtun_Waktu.ipynb
 ├── garch_dataset_400.xlsx
-├── outputs/
-│   ├── volatility_plot.png
-│   ├── forecast_plot.png
-│   └── diagnostics_result.csv
 ├── LICENSE
 └── README.md
 ```
